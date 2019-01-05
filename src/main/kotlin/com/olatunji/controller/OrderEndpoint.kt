@@ -19,7 +19,7 @@ class OrderEndpoint(
 
     @RequestMapping("/welcome")
     fun root() : String {
-        return message;
+        return message
     }
 
     @RequestMapping("/orders")
