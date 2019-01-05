@@ -1,0 +1,62 @@
+[
+  {
+    "id": "courier-1",
+    "name": "Manolo Escobar",
+    "box": true,
+    "vehicle": "MOTORCYCLE",
+    "location": {
+      "lat": 41.3965463,
+      "lon": 2.1963997
+    }
+  },
+  {
+    "box": false,
+    "vehicle": "BICYCLE",
+    "location": {
+      "lat": 41.39636718790941,
+      "lon": 2.1611637818740297
+    },
+    "id": "courier-2",
+    "name": "Shandra Palomba"
+  },
+  {
+    "box": false,
+    "vehicle": "MOTORCYCLE",
+    "location": {
+      "lat": 41.40638606893252,
+      "lon": 2.171794089603749
+    },
+    "id": "courier-3",
+    "name": "Daron Reinhold"
+  },
+  {
+    "box": true,
+    "vehicle": "MOTORCYCLE",
+    "location": {
+      "lat": 41.387646018597835,
+      "lon": 2.166255699226159
+    },
+    "id": "courier-4",
+    "name": "Deetta Zabala"
+  },
+  {
+    "box": false,
+    "vehicle": "MOTORCYCLE",
+    "location": {
+      "lat": 41.39267394624044,
+      "lon": 2.16265389480811
+    },
+    "id": "courier-5",
+    "name": "Tangela Monier"
+  },
+  {
+    "box": true,
+    "vehicle": "BICYCLE",
+    "location": {
+      "lat": 41.38128389875409,
+      "lon": 2.1844937085427016
+    },
+    "id": "courier-6",
+    "name": "Nicolasa Frizell"
+  }
+]
